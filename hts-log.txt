@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Jul 2023 21:39:39 at https://flow.com/hackathon +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://flow.com/hackathon -O1 "D:\gamer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:40:45	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://flow.com/hackathon)
+21:47:53	Warning: 	Retry after error -2 (Receive Time Out) at link https://assets-global.website-files.com/5f734f4dbd95382f4fdfa0ea/63cfa62f11690042074fb3ba_Dimension X.png (from https://flow.com/)
+21:47:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/GET (from https://flow.com/)
+21:47:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/"https://assets-global.website-files.com/5f734f4dbd95382f4fdfa0ea/64176892d18f1b15978675d0_FlowArcadeDemo_Website-poster-00001.jpg" (from https://flow.com/hybrid-custody)
+21:49:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/categories/ecosystem (from https://flow.com/blog)
+21:50:18	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/supercharging-innovation-with-the-flow-incubation-program-pilot (from https://flow.com/blog)
+21:50:33	Error: 	"Forbidden" (403) at link https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/6418cdd202be8ec1c62979a3_Blog Image - DEMO Walletless + Hybrid Custody.png (from https://flow.com/blog)
+21:51:16	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/new-home (from https://flow.com/use-cases)
+21:51:16	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/new-hybrid-custody-2 (from https://flow.com/use-cases)
+21:51:31	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/use-case/nft (from https://flow.com/use-cases)
+21:51:37	Warning: 	Link https://flow.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+21:51:39	Warning: 	Retry after error 502 () at link https://flow.com/GET (from https://flow.com/)
+21:51:39	Warning: 	Retry after error 502 () at link https://flow.com/"https://assets-global.website-files.com/5f734f4dbd95382f4fdfa0ea/64176892d18f1b15978675d0_FlowArcadeDemo_Website-poster-00001.jpg" (from https://flow.com/hybrid-custody)
+21:51:42	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/categories/ecosystem (from https://flow.com/blog)
+21:51:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/flow-network-status-updates-sporks-status-page (from https://flow.com/categories/developers)
+21:51:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items (from https://flow.com/categories/developers)
+21:53:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/engineering-categories/smart-contracts (from https://flow.com/engineering-blog)
+21:53:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/supercharging-innovation-with-the-flow-incubation-program-pilot (from https://flow.com/blog)
+21:53:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/john-nichols (from https://flow.com/post/flows-product-co-founder-layne-lafrance-on-top-shot-doodles-and-2023)
+21:53:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/gregor-gololicic (from https://flow.com/post/tooling-guide-for-flow-development)
+21:53:46	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/ecosystemsupport (from https://flow.com/post/flow-blockchain-ecosystem-community-wallets-apps-developers)
+21:54:15	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/international-nft-day-announcements-flow-blockchain (from https://flow.com/blog?fba3fbfb_page=2)
+21:54:33	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/blog?fba3fbfb_page=1 (from https://flow.com/blog?fba3fbfb_page=2)
+21:54:40	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/blog?fba3fbfb_page=3 (from https://flow.com/blog?fba3fbfb_page=2)
+21:54:41	Warning: 	Retry after error 502 () at link https://flow.com/new-home (from https://flow.com/use-cases)
+21:54:41	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/new-hybrid-custody-2 (from https://flow.com/use-cases)
+21:54:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/use-case/nft (from https://flow.com/use-cases)
+21:54:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/flow?94c058c6_page=2 (from https://flow.com/authors/flow)
+21:54:49	Error: 	"" (502) after 2 retries at link https://flow.com/GET (from https://flow.com/)
+21:54:49	Error: 	"" (502) after 2 retries at link https://flow.com/"https://assets-global.website-files.com/5f734f4dbd95382f4fdfa0ea/64176892d18f1b15978675d0_FlowArcadeDemo_Website-poster-00001.jpg" (from https://flow.com/hybrid-custody)
+21:54:49	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/categories/ecosystem (from https://flow.com/blog)
+21:54:49	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/flow-network-status-updates-sporks-status-page (from https://flow.com/categories/developers)
+21:54:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items (from https://flow.com/categories/developers)
+21:55:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/engineering-categories/consensus (from https://flow.com/engineering-categories/blockchain)
+21:55:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/engineering-blogs/verify-ethereum-smart-contract-state-with-proof (from https://flow.com/engineering-categories/blockchain)
+21:57:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/engineering-categories/smart-contracts (from https://flow.com/engineering-blog)
+21:57:53	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/supercharging-innovation-with-the-flow-incubation-program-pilot (from https://flow.com/blog)
+21:57:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/john-nichols (from https://flow.com/post/flows-product-co-founder-layne-lafrance-on-top-shot-doodles-and-2023)
+21:57:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/gregor-gololicic (from https://flow.com/post/tooling-guide-for-flow-development)
+21:57:58	Warning: 	Retry after error 502 () at link https://flow.com/ecosystemsupport (from https://flow.com/post/flow-blockchain-ecosystem-community-wallets-apps-developers)
+21:57:58	Warning: 	Moved Permanently for https://flow.com/post/chrome-extension://
+21:57:58	Warning: 	File has moved from https://flow.com/post/chrome-extension:// to https://flow-com.webflow.io/post/chrome-extension:
+21:57:58	Warning: 	Moved Permanently for https://flow.com/post/$1/
+21:57:58	Warning: 	File has moved from https://flow.com/post/$1/ to https://flow-com.webflow.io/post/$1
+21:57:58	Warning: 	Moved Permanently for https://flow.com/post/embed/
+21:57:58	Warning: 	File has moved from https://flow.com/post/embed/ to https://flow-com.webflow.io/post/embed
+21:57:58	Warning: 	Moved Permanently for https://flow.com/post/captioned/
+21:57:58	Warning: 	File has moved from https://flow.com/post/captioned/ to https://flow-com.webflow.io/post/captioned
+21:57:58	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/international-nft-day-announcements-flow-blockchain (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:05	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/guest (from https://flow.com/post/flow-blockchain-game-football-simulator-metaverse-league)
+21:58:05	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/blog?fba3fbfb_page=1 (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/blog?fba3fbfb_page=3 (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:09	Error: 	"" (502) after 2 retries at link https://flow.com/new-home (from https://flow.com/use-cases)
+21:58:09	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/new-hybrid-custody-2 (from https://flow.com/use-cases)
+21:58:09	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/use-case/nft (from https://flow.com/use-cases)
+21:58:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/flow?94c058c6_page=2 (from https://flow.com/authors/flow)
+21:58:10	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/flow-network-status-updates-sporks-status-page (from https://flow.com/categories/developers)
+21:58:10	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items (from https://flow.com/categories/developers)
+21:58:10	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/project-highlight-chainlink (from https://flow.com/authors/mateusz-rzeszowski)
+21:58:11	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/can-defi-defy-centralized-finance (from https://flow.com/authors/mateusz-rzeszowski)
+21:58:12	Warning: 	Retry after error 502 () at link https://flow.com/engineering-categories/consensus (from https://flow.com/engineering-categories/blockchain)
+21:58:12	Warning: 	Retry after error 502 () at link https://flow.com/engineering-blogs/verify-ethereum-smart-contract-state-with-proof (from https://flow.com/engineering-categories/blockchain)
+21:58:12	Warning: 	Retry after error -2 (Receive Time Out) at link https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/639afd9d56d3526a8b288d11_1_dC2-cOEhGLeotys_VEotgw.jpeg (from https://flow.com/authors/jan-bernatik)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/engineering-categories/smart-contracts (from https://flow.com/engineering-blog)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/authors/john-nichols (from https://flow.com/post/flows-product-co-founder-layne-lafrance-on-top-shot-doodles-and-2023)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/authors/gregor-gololicic (from https://flow.com/post/tooling-guide-for-flow-development)
+21:58:13	Error: 	"" (502) after 2 retries at link https://flow.com/ecosystemsupport (from https://flow.com/post/flow-blockchain-ecosystem-community-wallets-apps-developers)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/international-nft-day-announcements-flow-blockchain (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:13	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/authors/guest (from https://flow.com/post/flow-blockchain-game-football-simulator-metaverse-league)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/blog?fba3fbfb_page=1 (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/blog?fba3fbfb_page=3 (from https://flow.com/blog?fba3fbfb_page=2)
+21:58:13	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/authors/flow?94c058c6_page=2 (from https://flow.com/authors/flow)
+21:58:13	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/project-highlight-chainlink (from https://flow.com/authors/mateusz-rzeszowski)
+21:58:13	Warning: 	Retry after error 502 (Bad Gateway) at link https://flow.com/post/can-defi-defy-centralized-finance (from https://flow.com/authors/mateusz-rzeszowski)
+21:58:13	Error: 	"" (502) after 2 retries at link https://flow.com/engineering-categories/consensus (from https://flow.com/engineering-categories/blockchain)
+21:58:13	Error: 	"" (502) after 2 retries at link https://flow.com/engineering-blogs/verify-ethereum-smart-contract-state-with-proof (from https://flow.com/engineering-categories/blockchain)
+21:58:14	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/authors/guest (from https://flow.com/post/flow-blockchain-game-football-simulator-metaverse-league)
+21:58:14	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/project-highlight-chainlink (from https://flow.com/authors/mateusz-rzeszowski)
+21:58:14	Error: 	"Bad Gateway" (502) after 2 retries at link https://flow.com/post/can-defi-defy-centralized-finance (from https://flow.com/authors/mateusz-rzeszowski)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 35 seconds : 665 links scanned, 590 files written (149724437 bytes overall) [155444729 bytes received at 139412 bytes/sec], 8814020 bytes transferred using HTTP compression in 155 files, ratio 29%, 6.2 requests per connection
+(24 errors, 55 warnings, 0 messages)

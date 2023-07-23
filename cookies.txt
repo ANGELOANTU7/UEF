@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ahrefs.com	TRUE	/	FALSE	1999999999	__cf_bm	fRoWIwtVcqBGh38ubrpEOc0z3IuDs6p8JMF8ZxEg2_Y-1690042680-0-Af3WSv+mbAOTOPFXZykhk+vAv3q2fOImWddOqfonlYqnzsVXCs5TK6Nuelqmi1Txl+fBX3ryJixZCDZgQUIDnxc=
+ahrefs.com	TRUE	/	FALSE	1999999999	SameSite	None
+
